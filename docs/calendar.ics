@@ -7,7 +7,7 @@ X-WR-CALNAME:Notion Personal Todo
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:37325f95-f7d9-80c2-ba73-ce43fb1c5475@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] P3: Talk to Sarah about Ghost Booking initiative
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/P3-Talk-to-Sarah-about-Ghost-Booking-initiative-37325f95f7d980c2ba73ce43fb1c5475
 URL:https://app.notion.com/p/P3-Talk-to-Sarah-about-Ghost-Booking-initiative-37325f95f7d980c2ba73ce43fb1c5475
@@ -16,7 +16,7 @@ DTEND;VALUE=DATE:20260605
 END:VEVENT
 BEGIN:VEVENT
 UID:37325f95-f7d9-80e6-9fdb-dd04a591efee@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:• [Career] P2: Once given workplace360 data: make table w pivot views for level 3\, 4\, 5
 DESCRIPTION:Area: Career\\nNotion: https://app.notion.com/p/P2-Once-given-workplace360-data-make-table-w-pivot-views-for-level-3-4-5-37325f95f7d980e69fdbdd04a591efee
 URL:https://app.notion.com/p/P2-Once-given-workplace360-data-make-table-w-pivot-views-for-level-3-4-5-37325f95f7d980e69fdbdd04a591efee
@@ -25,7 +25,7 @@ DTEND;VALUE=DATE:20260605
 END:VEVENT
 BEGIN:VEVENT
 UID:37325f95-f7d9-807f-9104-cae4e5c7a106@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🔵 [Career] P1: Learn which locations to prioritize and how do we get that data?
 DESCRIPTION:Status: In progress\\nArea: Career\\nNotion: https://app.notion.com/p/P1-Learn-which-locations-to-prioritize-and-how-do-we-get-that-data-37325f95f7d9807f9104cae4e5c7a106
 URL:https://app.notion.com/p/P1-Learn-which-locations-to-prioritize-and-how-do-we-get-that-data-37325f95f7d9807f9104cae4e5c7a106
@@ -34,7 +34,7 @@ DTEND;VALUE=DATE:20260604
 END:VEVENT
 BEGIN:VEVENT
 UID:37325f95-f7d9-8029-96c4-f26813dbadb1@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🔵 [Career] Finish Internship Blueprint and send to Carol
 DESCRIPTION:Status: In progress\\nArea: Career\\nNotion: https://app.notion.com/p/Finish-Internship-Blueprint-and-send-to-Carol-37325f95f7d9802996c4f26813dbadb1
 URL:https://app.notion.com/p/Finish-Internship-Blueprint-and-send-to-Carol-37325f95f7d9802996c4f26813dbadb1
@@ -43,7 +43,7 @@ DTEND;VALUE=DATE:20260604
 END:VEVENT
 BEGIN:VEVENT
 UID:36d25f95-f7d9-80d5-89c7-eba7f48def59@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Reach out to 1 person
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Reach-out-to-1-person-36d25f95f7d980d589c7eba7f48def59
 URL:https://app.notion.com/p/Reach-out-to-1-person-36d25f95f7d980d589c7eba7f48def59
@@ -52,7 +52,7 @@ DTEND;VALUE=DATE:20260605
 END:VEVENT
 BEGIN:VEVENT
 UID:36d25f95-f7d9-8025-97e3-c3515c276b2e@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Play Around with Copilot Agents
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Play-Around-with-Copilot-Agents-36d25f95f7d9802597e3c3515c276b2e
 URL:https://app.notion.com/p/Play-Around-with-Copilot-Agents-36d25f95f7d9802597e3c3515c276b2e
@@ -61,7 +61,7 @@ DTEND;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
 UID:36d25f95-f7d9-80df-aaaa-fa702ce26d3f@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Explore Utilization Report to mirror directories
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Explore-Utilization-Report-to-mirror-directories-36d25f95f7d980dfaaaafa702ce26d3f
 URL:https://app.notion.com/p/Explore-Utilization-Report-to-mirror-directories-36d25f95f7d980dfaaaafa702ce26d3f
@@ -70,7 +70,7 @@ DTEND;VALUE=DATE:20260529
 END:VEVENT
 BEGIN:VEVENT
 UID:36d25f95-f7d9-8075-acec-ede30dc003b9@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Create Directory in Sharepoint matching RE360
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Create-Directory-in-Sharepoint-matching-RE360-36d25f95f7d98075acecede30dc003b9
 URL:https://app.notion.com/p/Create-Directory-in-Sharepoint-matching-RE360-36d25f95f7d98075acecede30dc003b9
@@ -79,7 +79,7 @@ DTEND;VALUE=DATE:20260601
 END:VEVENT
 BEGIN:VEVENT
 UID:33c25f95-f7d9-80ae-86d5-c20bf178c26b@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:⚪ [Personal] email purdue advisor
 DESCRIPTION:Status: To Do\\nArea: Personal\\nNotion: https://app.notion.com/p/email-purdue-advisor-33c25f95f7d980ae86d5c20bf178c26b
 URL:https://app.notion.com/p/email-purdue-advisor-33c25f95f7d980ae86d5c20bf178c26b
@@ -88,7 +88,7 @@ DTEND;VALUE=DATE:20260415
 END:VEVENT
 BEGIN:VEVENT
 UID:33525f95-f7d9-803d-bcb6-ec012cb5a2bc@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 Buy Macbook Air
 DESCRIPTION:Status: Done\\nNotion: https://app.notion.com/p/Buy-Macbook-Air-33525f95f7d9803dbcb6ec012cb5a2bc
 URL:https://app.notion.com/p/Buy-Macbook-Air-33525f95f7d9803dbcb6ec012cb5a2bc
@@ -97,7 +97,7 @@ DTEND;VALUE=DATE:20260402
 END:VEVENT
 BEGIN:VEVENT
 UID:33525f95-f7d9-8046-9199-f24d9c0863e7@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 Transfer laptop sentra contents
 DESCRIPTION:Status: Done\\nNotion: https://app.notion.com/p/Transfer-laptop-sentra-contents-33525f95f7d980469199f24d9c0863e7
 URL:https://app.notion.com/p/Transfer-laptop-sentra-contents-33525f95f7d980469199f24d9c0863e7
@@ -106,7 +106,7 @@ DTEND;VALUE=DATE:20260402
 END:VEVENT
 BEGIN:VEVENT
 UID:33525f95-f7d9-8077-8b66-ec9b808655fb@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Log into VentureHR and roll over 401K money
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Log-into-VentureHR-and-roll-over-401K-money-33525f95f7d980778b66ec9b808655fb
 URL:https://app.notion.com/p/Log-into-VentureHR-and-roll-over-401K-money-33525f95f7d980778b66ec9b808655fb
@@ -115,7 +115,7 @@ DTEND;VALUE=DATE:20260501
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb25f95-f7d9-80fa-a2d3-d47b72c6cec8@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Prep for IBM Interview
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Prep-for-IBM-Interview-2fb25f95f7d980faa2d3d47b72c6cec8
 URL:https://app.notion.com/p/Prep-for-IBM-Interview-2fb25f95f7d980faa2d3d47b72c6cec8
@@ -124,7 +124,7 @@ DTEND;VALUE=DATE:20260203
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb25f95-f7d9-805e-bdbd-c11148edc538@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Expedia Shadow Data Report
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Expedia-Shadow-Data-Report-2fb25f95f7d9805ebdbdc11148edc538
 URL:https://app.notion.com/p/Expedia-Shadow-Data-Report-2fb25f95f7d9805ebdbdc11148edc538
@@ -133,7 +133,7 @@ DTEND;VALUE=DATE:20260203
 END:VEVENT
 BEGIN:VEVENT
 UID:2e025f95-f7d9-80b1-9db0-fc44ddf9c175@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Update Scan Freshness Dash
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Update-Scan-Freshness-Dash-2e025f95f7d980b19db0fc44ddf9c175
 URL:https://app.notion.com/p/Update-Scan-Freshness-Dash-2e025f95f7d980b19db0fc44ddf9c175
@@ -142,7 +142,7 @@ DTEND;VALUE=DATE:20260205
 END:VEVENT
 BEGIN:VEVENT
 UID:2e025f95-f7d9-8026-9216-ee7777c5a11a@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Expedia Elie Use Case 2
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Expedia-Elie-Use-Case-2-2e025f95f7d980269216ee7777c5a11a
 URL:https://app.notion.com/p/Expedia-Elie-Use-Case-2-2e025f95f7d980269216ee7777c5a11a
@@ -151,7 +151,7 @@ DTEND;VALUE=DATE:20260207
 END:VEVENT
 BEGIN:VEVENT
 UID:2d525f95-f7d9-807b-9b90-c602e6d0508a@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Prep Notes for Veronica Meeting
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Prep-Notes-for-Veronica-Meeting-2d525f95f7d9807b9b90c602e6d0508a
 URL:https://app.notion.com/p/Prep-Notes-for-Veronica-Meeting-2d525f95f7d9807b9b90c602e6d0508a
@@ -160,7 +160,7 @@ DTEND;VALUE=DATE:20251227
 END:VEVENT
 BEGIN:VEVENT
 UID:2d525f95-f7d9-80f1-a3d0-ddcfaef0bb15@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Fix PR 1 and Send
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Fix-PR-1-and-Send-2d525f95f7d980f1a3d0ddcfaef0bb15
 URL:https://app.notion.com/p/Fix-PR-1-and-Send-2d525f95f7d980f1a3d0ddcfaef0bb15
@@ -169,7 +169,7 @@ DTEND;VALUE=DATE:20251227
 END:VEVENT
 BEGIN:VEVENT
 UID:2d525f95-f7d9-803a-bd24-e64dc80df48a@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Reports Migration to Playground
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Reports-Migration-to-Playground-2d525f95f7d9803abd24e64dc80df48a
 URL:https://app.notion.com/p/Reports-Migration-to-Playground-2d525f95f7d9803abd24e64dc80df48a
@@ -178,7 +178,7 @@ DTEND;VALUE=DATE:20260207
 END:VEVENT
 BEGIN:VEVENT
 UID:2d525f95-f7d9-80b8-b288-cef578d5a106@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Expedia Elie Use Case 1
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Expedia-Elie-Use-Case-1-2d525f95f7d980b8b288cef578d5a106
 URL:https://app.notion.com/p/Expedia-Elie-Use-Case-1-2d525f95f7d980b8b288cef578d5a106
@@ -187,7 +187,7 @@ DTEND;VALUE=DATE:20251227
 END:VEVENT
 BEGIN:VEVENT
 UID:2a025f95-f7d9-8047-aa31-c13cea036fe4@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Data Store Freshness Dash
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Data-Store-Freshness-Dash-2a025f95f7d98047aa31c13cea036fe4
 URL:https://app.notion.com/p/Data-Store-Freshness-Dash-2a025f95f7d98047aa31c13cea036fe4
@@ -196,7 +196,7 @@ DTEND;VALUE=DATE:20251106
 END:VEVENT
 BEGIN:VEVENT
 UID:2a025f95-f7d9-8071-920a-d237d9433472@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Do PR 2
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Do-PR-2-2a025f95f7d98071920ad237d9433472
 URL:https://app.notion.com/p/Do-PR-2-2a025f95f7d98071920ad237d9433472
@@ -205,7 +205,7 @@ DTEND;VALUE=DATE:20260207
 END:VEVENT
 BEGIN:VEVENT
 UID:25c25f95-f7d9-80f6-8f05-fd8803f6a10c@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:❌ [Career] Make Notion Docs for all Reports
 DESCRIPTION:Status: Did Not Do\\nArea: Career\\nNotion: https://app.notion.com/p/Make-Notion-Docs-for-all-Reports-25c25f95f7d980f68f05fd8803f6a10c
 URL:https://app.notion.com/p/Make-Notion-Docs-for-all-Reports-25c25f95f7d980f68f05fd8803f6a10c
@@ -214,7 +214,7 @@ DTEND;VALUE=DATE:20251117
 END:VEVENT
 BEGIN:VEVENT
 UID:25c25f95-f7d9-802b-a171-c34e8513d505@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Fill Databricks Application
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Fill-Databricks-Application-25c25f95f7d9802ba171c34e8513d505
 URL:https://app.notion.com/p/Fill-Databricks-Application-25c25f95f7d9802ba171c34e8513d505
@@ -223,7 +223,7 @@ DTEND;VALUE=DATE:20250828
 END:VEVENT
 BEGIN:VEVENT
 UID:25c25f95-f7d9-8032-a5e6-d1bc9a1b6130@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Prep for Final Presentation
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Prep-for-Final-Presentation-25c25f95f7d98032a5e6d1bc9a1b6130
 URL:https://app.notion.com/p/Prep-for-Final-Presentation-25c25f95f7d98032a5e6d1bc9a1b6130
@@ -232,7 +232,7 @@ DTEND;VALUE=DATE:20250828
 END:VEVENT
 BEGIN:VEVENT
 UID:1c725f95-f7d9-80a7-b3d0-c075fffe6684@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Prep for Interview Call
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Prep-for-Interview-Call-1c725f95f7d980a7b3d0c075fffe6684
 URL:https://app.notion.com/p/Prep-for-Interview-Call-1c725f95f7d980a7b3d0c075fffe6684
@@ -241,7 +241,7 @@ DTEND;VALUE=DATE:20250401
 END:VEVENT
 BEGIN:VEVENT
 UID:1c725f95-f7d9-8003-9dd3-f9e12d0a8dc8@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Call BC
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Call-BC-1c725f95f7d980039dd3f9e12d0a8dc8
 URL:https://app.notion.com/p/Call-BC-1c725f95f7d980039dd3f9e12d0a8dc8
@@ -250,7 +250,7 @@ DTEND;VALUE=DATE:20250401
 END:VEVENT
 BEGIN:VEVENT
 UID:1c725f95-f7d9-8094-87ad-f41637f710f8@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Clubs] Aharya Finance Tasks
 DESCRIPTION:Status: Done\\nArea: Clubs\\nNotion: https://app.notion.com/p/Aharya-Finance-Tasks-1c725f95f7d9809487adf41637f710f8
 URL:https://app.notion.com/p/Aharya-Finance-Tasks-1c725f95f7d9809487adf41637f710f8
@@ -259,7 +259,7 @@ DTEND;VALUE=DATE:20250401
 END:VEVENT
 BEGIN:VEVENT
 UID:1c725f95-f7d9-8094-bb50-d91146eac472@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Personal] Yash Walmart Order
 DESCRIPTION:Status: Done\\nArea: Personal\\nNotion: https://app.notion.com/p/Yash-Walmart-Order-1c725f95f7d98094bb50d91146eac472
 URL:https://app.notion.com/p/Yash-Walmart-Order-1c725f95f7d98094bb50d91146eac472
@@ -268,7 +268,7 @@ DTEND;VALUE=DATE:20250401
 END:VEVENT
 BEGIN:VEVENT
 UID:1a825f95-f7d9-80d4-ac02-c85646b8123e@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Expenses] Send Picture to Baba of Meal Swipes
 DESCRIPTION:Status: Done\\nArea: Expenses\\nNotion: https://app.notion.com/p/Send-Picture-to-Baba-of-Meal-Swipes-1a825f95f7d980d4ac02c85646b8123e
 URL:https://app.notion.com/p/Send-Picture-to-Baba-of-Meal-Swipes-1a825f95f7d980d4ac02c85646b8123e
@@ -277,7 +277,7 @@ DTEND;VALUE=DATE:20250301
 END:VEVENT
 BEGIN:VEVENT
 UID:1a825f95-f7d9-8041-bf1c-eb01d91e03eb@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Health] Buy Protein Shakes
 DESCRIPTION:Status: Done\\nArea: Health\\nNotion: https://app.notion.com/p/Buy-Protein-Shakes-1a825f95f7d98041bf1ceb01d91e03eb
 URL:https://app.notion.com/p/Buy-Protein-Shakes-1a825f95f7d98041bf1ceb01d91e03eb
@@ -286,7 +286,7 @@ DTEND;VALUE=DATE:20250301
 END:VEVENT
 BEGIN:VEVENT
 UID:1a825f95-f7d9-8071-8e7c-e9c7c98ddc9b@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Health] Charge and Wear Apple Watch
 DESCRIPTION:Status: Done\\nArea: Health\\nNotion: https://app.notion.com/p/Charge-and-Wear-Apple-Watch-1a825f95f7d980718e7ce9c7c98ddc9b
 URL:https://app.notion.com/p/Charge-and-Wear-Apple-Watch-1a825f95f7d980718e7ce9c7c98ddc9b
@@ -295,7 +295,7 @@ DTEND;VALUE=DATE:20250301
 END:VEVENT
 BEGIN:VEVENT
 UID:1a825f95-f7d9-80a8-81ef-c33d03ec6f50@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Prudential Coding Assignment
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Prudential-Coding-Assignment-1a825f95f7d980a881efc33d03ec6f50
 URL:https://app.notion.com/p/Prudential-Coding-Assignment-1a825f95f7d980a881efc33d03ec6f50
@@ -304,7 +304,7 @@ DTEND;VALUE=DATE:20250301
 END:VEVENT
 BEGIN:VEVENT
 UID:1a825f95-f7d9-8075-975e-f9a4135da882@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Prudential Video Interview
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Prudential-Video-Interview-1a825f95f7d98075975ef9a4135da882
 URL:https://app.notion.com/p/Prudential-Video-Interview-1a825f95f7d98075975ef9a4135da882
@@ -313,7 +313,7 @@ DTEND;VALUE=DATE:20250301
 END:VEVENT
 BEGIN:VEVENT
 UID:1a625f95-f7d9-802d-bff8-ed53394adbae@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Clubs] Fill driver form
 DESCRIPTION:Status: Done\\nArea: Clubs\\nNotion: https://app.notion.com/p/Fill-driver-form-1a625f95f7d9802dbff8ed53394adbae
 URL:https://app.notion.com/p/Fill-driver-form-1a625f95f7d9802dbff8ed53394adbae
@@ -322,7 +322,7 @@ DTEND;VALUE=DATE:20250227
 END:VEVENT
 BEGIN:VEVENT
 UID:1a625f95-f7d9-804e-b102-cc087f0f515a@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Personal] Comfort List
 DESCRIPTION:Status: Done\\nArea: Personal\\nNotion: https://app.notion.com/p/Comfort-List-1a625f95f7d9804eb102cc087f0f515a
 URL:https://app.notion.com/p/Comfort-List-1a625f95f7d9804eb102cc087f0f515a
@@ -331,7 +331,7 @@ DTEND;VALUE=DATE:20250227
 END:VEVENT
 BEGIN:VEVENT
 UID:1a625f95-f7d9-80b2-9287-e52eea565b2f@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Expenses] Jan Feb Reconciliation
 DESCRIPTION:Status: Done\\nArea: Expenses\\nNotion: https://app.notion.com/p/Jan-Feb-Reconciliation-1a625f95f7d980b29287e52eea565b2f
 URL:https://app.notion.com/p/Jan-Feb-Reconciliation-1a625f95f7d980b29287e52eea565b2f
@@ -340,7 +340,7 @@ DTEND;VALUE=DATE:20250227
 END:VEVENT
 BEGIN:VEVENT
 UID:18225f95-f7d9-8094-8140-e0eebec9aba6@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Prep for Interview
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Prep-for-Interview-18225f95f7d980948140e0eebec9aba6
 URL:https://app.notion.com/p/Prep-for-Interview-18225f95f7d980948140e0eebec9aba6
@@ -349,7 +349,7 @@ DTEND;VALUE=DATE:20250122
 END:VEVENT
 BEGIN:VEVENT
 UID:17c25f95-f7d9-80ae-acc3-f56875156872@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Email Bursar
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Email-Bursar-17c25f95f7d980aeacc3f56875156872
 URL:https://app.notion.com/p/Email-Bursar-17c25f95f7d980aeacc3f56875156872
@@ -358,7 +358,7 @@ DTEND;VALUE=DATE:20250116
 END:VEVENT
 BEGIN:VEVENT
 UID:17c25f95-f7d9-80a1-8980-c26e5de7cd9a@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Add all assignments and deadlines from syllabus
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Add-all-assignments-and-deadlines-from-syllabus-17c25f95f7d980a18980c26e5de7cd9a
 URL:https://app.notion.com/p/Add-all-assignments-and-deadlines-from-syllabus-17c25f95f7d980a18980c26e5de7cd9a
@@ -367,7 +367,7 @@ DTEND;VALUE=DATE:20250116
 END:VEVENT
 BEGIN:VEVENT
 UID:17c25f95-f7d9-8057-be15-ef0173248628@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Health] Put in Walmart Order
 DESCRIPTION:Status: Done\\nArea: Health\\nNotion: https://app.notion.com/p/Put-in-Walmart-Order-17c25f95f7d98057be15ef0173248628
 URL:https://app.notion.com/p/Put-in-Walmart-Order-17c25f95f7d98057be15ef0173248628
@@ -376,7 +376,7 @@ DTEND;VALUE=DATE:20250116
 END:VEVENT
 BEGIN:VEVENT
 UID:17c25f95-f7d9-80cd-a6c2-d07f5314bd89@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Personal] Reorganize Room
 DESCRIPTION:Status: Done\\nArea: Personal\\nNotion: https://app.notion.com/p/Reorganize-Room-17c25f95f7d980cda6c2d07f5314bd89
 URL:https://app.notion.com/p/Reorganize-Room-17c25f95f7d980cda6c2d07f5314bd89
@@ -385,7 +385,7 @@ DTEND;VALUE=DATE:20250116
 END:VEVENT
 BEGIN:VEVENT
 UID:17925f95-f7d9-8086-b9d3-db0845da29c6@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Personal] Order Groceries
 DESCRIPTION:Status: Done\\nArea: Personal\\nNotion: https://app.notion.com/p/Order-Groceries-17925f95f7d98086b9d3db0845da29c6
 URL:https://app.notion.com/p/Order-Groceries-17925f95f7d98086b9d3db0845da29c6
@@ -394,7 +394,7 @@ DTEND;VALUE=DATE:20250113
 END:VEVENT
 BEGIN:VEVENT
 UID:17925f95-f7d9-8038-b9b9-d67fecb2ff4f@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Personal] Order Secret Santa Gift
 DESCRIPTION:Status: Done\\nArea: Personal\\nNotion: https://app.notion.com/p/Order-Secret-Santa-Gift-17925f95f7d98038b9b9d67fecb2ff4f
 URL:https://app.notion.com/p/Order-Secret-Santa-Gift-17925f95f7d98038b9b9d67fecb2ff4f
@@ -403,7 +403,7 @@ DTEND;VALUE=DATE:20250113
 END:VEVENT
 BEGIN:VEVENT
 UID:17925f95-f7d9-801b-ba79-cc4559244cbe@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Health] Aharya Conflict Vid
 DESCRIPTION:Status: Done\\nArea: Health\\nNotion: https://app.notion.com/p/Aharya-Conflict-Vid-17925f95f7d9801bba79cc4559244cbe
 URL:https://app.notion.com/p/Aharya-Conflict-Vid-17925f95f7d9801bba79cc4559244cbe
@@ -412,7 +412,7 @@ DTEND;VALUE=DATE:20250113
 END:VEVENT
 BEGIN:VEVENT
 UID:17925f95-f7d9-8083-8aa4-febf975f774b@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Health] Aharya Flying Doc
 DESCRIPTION:Status: Done\\nArea: Health\\nNotion: https://app.notion.com/p/Aharya-Flying-Doc-17925f95f7d980838aa4febf975f774b
 URL:https://app.notion.com/p/Aharya-Flying-Doc-17925f95f7d980838aa4febf975f774b
@@ -421,7 +421,7 @@ DTEND;VALUE=DATE:20250113
 END:VEVENT
 BEGIN:VEVENT
 UID:14325f95-f7d9-803e-b318-f0e550f79a40@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Personal] Plan who to meet during break
 DESCRIPTION:Status: Done\\nArea: Personal\\nNotion: https://app.notion.com/p/Plan-who-to-meet-during-break-14325f95f7d9803eb318f0e550f79a40
 URL:https://app.notion.com/p/Plan-who-to-meet-during-break-14325f95f7d9803eb318f0e550f79a40
@@ -430,7 +430,7 @@ DTEND;VALUE=DATE:20241123
 END:VEVENT
 BEGIN:VEVENT
 UID:14325f95-f7d9-8087-9fca-ca9f4f3d778f@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Send Study Plan to Baba
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Send-Study-Plan-to-Baba-14325f95f7d980879fcaca9f4f3d778f
 URL:https://app.notion.com/p/Send-Study-Plan-to-Baba-14325f95f7d980879fcaca9f4f3d778f
@@ -439,7 +439,7 @@ DTEND;VALUE=DATE:20241122
 END:VEVENT
 BEGIN:VEVENT
 UID:14325f95-f7d9-80b2-8b0b-d0159666e5c5@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Personal] Seattle Packing
 DESCRIPTION:Status: Done\\nArea: Personal\\nNotion: https://app.notion.com/p/Seattle-Packing-14325f95f7d980b28b0bd0159666e5c5
 URL:https://app.notion.com/p/Seattle-Packing-14325f95f7d980b28b0bd0159666e5c5
@@ -448,7 +448,7 @@ DTEND;VALUE=DATE:20241124
 END:VEVENT
 BEGIN:VEVENT
 UID:13725f95-f7d9-8037-bc25-d04a0205f90d@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Personal] Call Housing Office for On Campus Housing
 DESCRIPTION:Status: Done\\nArea: Personal\\nNotion: https://app.notion.com/p/Call-Housing-Office-for-On-Campus-Housing-13725f95f7d98037bc25d04a0205f90d
 URL:https://app.notion.com/p/Call-Housing-Office-for-On-Campus-Housing-13725f95f7d98037bc25d04a0205f90d
@@ -457,7 +457,7 @@ DTEND;VALUE=DATE:20241108
 END:VEVENT
 BEGIN:VEVENT
 UID:13225f95-f7d9-80c0-9726-f229e58b0f7e@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Expenses] Apply to 5 Internships
 DESCRIPTION:Status: Done\\nArea: Expenses\\nNotion: https://app.notion.com/p/Apply-to-5-Internships-13225f95f7d980c09726f229e58b0f7e
 URL:https://app.notion.com/p/Apply-to-5-Internships-13225f95f7d980c09726f229e58b0f7e
@@ -466,7 +466,7 @@ DTEND;VALUE=DATE:20241125
 END:VEVENT
 BEGIN:VEVENT
 UID:13225f95-f7d9-8088-8cce-e274b05322a5@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Apply to 5 Internships
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Apply-to-5-Internships-13225f95f7d980888ccee274b05322a5
 URL:https://app.notion.com/p/Apply-to-5-Internships-13225f95f7d980888ccee274b05322a5
@@ -475,7 +475,7 @@ DTEND;VALUE=DATE:20241118
 END:VEVENT
 BEGIN:VEVENT
 UID:13225f95-f7d9-809e-ba9d-f7ce046c3733@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Apply to 5 Internships
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Apply-to-5-Internships-13225f95f7d9809eba9df7ce046c3733
 URL:https://app.notion.com/p/Apply-to-5-Internships-13225f95f7d9809eba9df7ce046c3733
@@ -484,7 +484,7 @@ DTEND;VALUE=DATE:20241111
 END:VEVENT
 BEGIN:VEVENT
 UID:13225f95-f7d9-808f-ba36-f8957081223f@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Expenses] Apply to 5 Internships
 DESCRIPTION:Status: Done\\nArea: Expenses\\nNotion: https://app.notion.com/p/Apply-to-5-Internships-13225f95f7d9808fba36f8957081223f
 URL:https://app.notion.com/p/Apply-to-5-Internships-13225f95f7d9808fba36f8957081223f
@@ -493,7 +493,7 @@ DTEND;VALUE=DATE:20241104
 END:VEVENT
 BEGIN:VEVENT
 UID:13025f95-f7d9-8069-8ef1-cf2f64ede8c5@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Identify and Message People (See Notes)
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Identify-and-Message-People-See-Notes-13025f95f7d980698ef1cf2f64ede8c5
 URL:https://app.notion.com/p/Identify-and-Message-People-See-Notes-13025f95f7d980698ef1cf2f64ede8c5
@@ -502,7 +502,7 @@ DTEND;VALUE=DATE:20250201
 END:VEVENT
 BEGIN:VEVENT
 UID:11225f95-f7d9-80e8-91ba-e3610f069617@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Career] Apply to 5 Internships
 DESCRIPTION:Status: Done\\nArea: Career\\nNotion: https://app.notion.com/p/Apply-to-5-Internships-11225f95f7d980e891bae3610f069617
 URL:https://app.notion.com/p/Apply-to-5-Internships-11225f95f7d980e891bae3610f069617
@@ -511,7 +511,7 @@ DTEND;VALUE=DATE:20241031
 END:VEVENT
 BEGIN:VEVENT
 UID:11225f95-f7d9-8034-b664-d598b596da67@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Creative] Print Room Posters
 DESCRIPTION:Status: Done\\nArea: Creative\\nNotion: https://app.notion.com/p/Print-Room-Posters-11225f95f7d98034b664d598b596da67
 URL:https://app.notion.com/p/Print-Room-Posters-11225f95f7d98034b664d598b596da67
@@ -520,7 +520,7 @@ DTEND;VALUE=DATE:20250201
 END:VEVENT
 BEGIN:VEVENT
 UID:11225f95-f7d9-80bf-b4a6-d3f876d03b36@notion-todo-calendar
-DTSTAMP:20260704T093603Z
+DTSTAMP:20260704T112750Z
 SUMMARY:🟢 [Clubs] Aharya Audition Video
 DESCRIPTION:Status: Done\\nArea: Clubs\\nNotion: https://app.notion.com/p/Aharya-Audition-Video-11225f95f7d980bfb4a6d3f876d03b36
 URL:https://app.notion.com/p/Aharya-Audition-Video-11225f95f7d980bfb4a6d3f876d03b36
